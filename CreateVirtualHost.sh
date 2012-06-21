@@ -5,6 +5,8 @@
 #
 #  Created by Rian Rainey on 5/4/12.
 #  Copyright (c) 2012 Built Well Labs, LLC. All rights reserved.
+
+# Variables
 VHOSTSFILE="/Applications/XAMPP/xamppfiles/etc/extra/httpd-vhosts.conf";
 
 # TODO: Create new entry in hosts file

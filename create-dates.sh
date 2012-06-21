@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# This script helped me generate dates for project management
+# I don't know what uses this would have. I sometimes reference
+# it some basic math functions
+
 # Set beginning date
 echo "When did this project start (MM/DD/YY)?: "
 read begin_date

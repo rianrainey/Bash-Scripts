@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #  CopyFromServer.sh
-#  
+#   
 #
 #  Created by Rian Rainey on 6/21/12.
 #  Copyright (c) 2012 Built Well Labs, LLC. All rights reserved.
